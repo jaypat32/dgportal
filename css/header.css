@@ -1,0 +1,39 @@
+/*
+#031D44 blue
+#04395E lighter blue
+#0876c4 even lighter blue
+#70A288 green
+#DAB785 tan
+#D5896F orange
+*/
+
+/*
+####################################################
+
+FOR STYLING ONLY. THE STRUCTURE IS SET IN index.css
+
+####################################################
+*/
+header {
+	color: #fff;
+}
+header a:link {
+	color: #fff;
+	text-decoration: none;
+}
+header a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+header a:active {
+	color: #fff;
+	text-decoration: none;
+}
+header a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+header h2 {
+	margin: .5em auto;
+	font-size: 1.5rem;
+}

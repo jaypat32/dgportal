@@ -1,0 +1,10 @@
+h1 {
+	flex: 0 1 100%;
+	margin: 0 auto 1em auto;
+	text-align: center;
+}
+.summon_options {
+	flex: 0 1 100%;
+	margin: 0 auto;
+	text-align: center;
+}
